@@ -16,9 +16,10 @@ This repository documents my journey of learning Python for Data Analysis from t
 
 ### Matplotlib
 - [ ] Line plots
-- [ ] Bar charts
+- [x] Bar charts
 - [ ] Scatter plots
 - [ ] Histograms
+- [ ] Pie Plot
 
 ### Pandas
 - [ ] Series
